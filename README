@@ -1,0 +1,4 @@
+  XML_generator class is to generate two xml files
+# first xml file is producing timestamps for every 30th of June since the Unix Epoch, at 1pm GMT
+# second xml file is producing timestamps in descending order, excluding years that are prime numbers
+#  developed by Su Su Thant
